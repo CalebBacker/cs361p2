@@ -1,0 +1,14 @@
+CS 361 Project 2 - Nondeterministic Finite Automata
+
+Authors:
+- Trevor Fry
+- Caleb Backer
+
+Overview:
+This project implements a nondeterministic finite automaton (NFA) in Java.
+The required classes are in the `fa.nfa` package:
+- `NFA.java`
+- `NFAState.java`
+
+The program is tested with the provided JUnit test file:
+- `test/nfa/NFATest.java`

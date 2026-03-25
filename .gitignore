@@ -1,0 +1,18 @@
+# Java build artifacts
+*.class
+
+# Common IDE and OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
