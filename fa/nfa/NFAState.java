@@ -12,7 +12,7 @@ import fa.State;
  * Models a single state in an NFA.
  * Each state stores its outgoing transitions grouped by symbol.
  *
- * @author trevo
+ * @author Trevor Fry, Caleb Backer
  */
 public class NFAState extends State {
 
